@@ -32,9 +32,9 @@
 					<configuration>
 						<!-- context root for Java web apps -->
 						<path>/</path>
-						<port>8088</port>
+						<port>8080</port>
 						<!-- name of Tomcat executable jar file -->
-						<finalName>executable.jar</finalName>
+						<finalName>executable.war</finalName>
 					</configuration>
 
 				</plugin>
